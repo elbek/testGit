@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-elbek-1-1
-=======
-elbek1
->>>>>>> parent of 5932613... Some changes
+elbek
